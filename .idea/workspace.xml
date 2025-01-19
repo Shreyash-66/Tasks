@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c2d5a45-a1ed-4541-bc01-782ef2170853" name="Changes" comment="T :: adding hello controller">
+      <change afterPath="$PROJECT_DIR$/tasks-app/src/main/java/com/sn/tasks/app/config/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-app/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hello_controller" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shreyash-66&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shreyash-66/Tasks.git&quot;,
+    &quot;accountId&quot;: &quot;ba99fbee-9c8d-410a-84eb-14c392948a7a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2rqEQO7KXr8LbTRLi2lwnVi8Jyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "auth__n__auth__app",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shreyashnannaware/Shreyash/Projects/Tasks",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sn.tasks.app.TasksAppApplication" />
+      <module name="tasks-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c2d5a45-a1ed-4541-bc01-782ef2170853" name="Changes" comment="" />
+      <created>1737278187325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737278187325</updated>
+    </task>
+    <task id="LOCAL-00001" summary="T :: adding hello controller">
+      <option name="closed" value="true" />
+      <created>1737278599815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737278599815</updated>
+    </task>
+    <task id="LOCAL-00002" summary="T :: adding hello controller">
+      <option name="closed" value="true" />
+      <created>1737278826676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737278826676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="T :: adding hello controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="T :: adding hello controller" />
+  </component>
+</project>
