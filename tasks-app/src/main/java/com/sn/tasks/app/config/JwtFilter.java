@@ -1,5 +1,7 @@
 package com.sn.tasks.app.config;
 
+import com.sn.tasks.app.service.JwtService;
+import com.sn.tasks.app.service.MyUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -16,6 +18,7 @@ import java.io.IOException;
 
 @Component
 public class JwtFilter extends OncePerRequestFilter {
+
     @Autowired
     private JwtService jwtService;
 
