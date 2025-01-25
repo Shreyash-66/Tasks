@@ -1,6 +1,6 @@
 package com.sn.tasks.app.controller;
 
-import com.sn.tasks.app.model.User;
+import com.sn.tasks.app.pgsql.model.User;
 import com.sn.tasks.app.service.JwtService;
 import com.sn.tasks.app.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
