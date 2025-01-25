@@ -1,6 +1,6 @@
-package com.sn.tasks.app.repository;
+package com.sn.tasks.app.pgsql.repository;
 
-import com.sn.tasks.app.model.User;
+import com.sn.tasks.app.pgsql.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

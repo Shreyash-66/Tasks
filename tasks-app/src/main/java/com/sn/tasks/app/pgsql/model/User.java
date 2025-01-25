@@ -1,4 +1,4 @@
-package com.sn.tasks.app.model;
+package com.sn.tasks.app.pgsql.model;
 
 import jakarta.persistence.*;
 import lombok.*;
